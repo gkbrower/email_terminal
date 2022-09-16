@@ -32,12 +32,10 @@
             "<img src=\"https://thispersondoesnotexist.com/image\" title=\"tHeY aRe NoT hUmAn\" style=\"width: 10rem; max-width: 100%;\">"
         ]
     },
-    "Yam.exe": {
+    "yam.exe": {
         "help": "Yam's super-secret protocol",
         "clear": true,
         "message": [
-            "<p class=glow style='font-size: 3em'>⚠ YOU ARE NOT YAM ⚠</p>",
-            "<p class=glow style='font-size: 3em'>⚠ YOU ARE NOT YAM ⚠</p>",
             "<p class=glow style='font-size: 3em'>⚠ YOU ARE NOT YAM ⚠</p>",
             "<p class=desync>Corrupted Data Found</p>",
             "<img src=config/network/11.152.9.6/tech.jpg style='width: 10rem' class=glitch>",
