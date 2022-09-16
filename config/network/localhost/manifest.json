@@ -1,12 +1,12 @@
 {
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
+    "serverName": "👁 I SEE YOU BOLDER 👁",
     "iconName": "image.png",
     "terminalID": "Y56",
     "defaultUser": {
         "userId": "user",
         "password": "",
-        "userName": "Bolder"
+        "userName": "Bolder_"
     },
     "randomSeed": true,
     "initialHistory": {
