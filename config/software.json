@@ -36,10 +36,14 @@
         "help": "Yam's super-secret protocol",
         "clear": true,
         "message": [
-            "<p class=glow style='font-size: 3em'>⚠ YOU ARE NOT YAM ⚠</p>",
+            "<p class=glow style='font-size: 2em'>⚠ ERROR ⚠</p>",
+            "<p class=glow style='font-size: 3em'>⚠ YOU ARE NOT YAM ⚠</p>"
+            "<p class=glow style='font-size: 2em'>⚠ ERROR ⚠</p>"
             "<p class=desync>Corrupted Data Found</p>",
+            "<p class=desync>Data being wiped...</p>",
             "<img src=config/network/11.152.9.6/tech.jpg style='width: 10rem' class=glitch>",
-            "<p class=hack-reveal data-alphabet=uppercase data-iterations-before-reveal=0 data-preserve-spaces=true>All data wiped</p>"
+            "<p class=desync>Data has been wiped.</p>",
+            "<p class=hack-reveal data-alphabet=uppercase data-iterations-before-reveal=0 data-preserve-spaces=true>Goodbye</p>"
         ]
     },
     "decrypt": {},
